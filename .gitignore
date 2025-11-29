@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+local_storage/uploads/*
+local_storage/results/*
+ml_models/*
+app/.DS_Store.venv/
+.DS_Store
+app/.DS_Store
+*/**.DS_Store
+.env.example
